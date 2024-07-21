@@ -1,0 +1,139 @@
+.container-menu {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.logo {
+    margin: 67px 0px 67px 89px;
+}
+
+.menu-btn {
+
+    margin: 67px 67px 0px 89px;
+}
+
+.main-block {
+    display: flex;
+    flex-direction: column;
+    width: 542px;
+    margin-left: 126px;
+}
+
+.title-main-block {
+    font-size: 60px;
+    text-transform: uppercase;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+}
+
+.text-main-block {
+    font-size: 20px;
+    font-family: "Roboto Slab", serif;
+    font-weight: 300;
+}
+
+.container-main-block {
+    display: flex;
+
+}
+
+.block-image {
+
+    margin-left: 50px;
+}
+
+.container-menu-block {
+    display: flex;
+    gap: 20px;
+    font-size: 20px;
+    font-family: "Roboto Slab", serif;
+    font-weight: 300;
+    margin-left: 126px;
+}
+
+.container-item_link {
+    text-decoration: none;
+    color: #5222D0;
+}
+
+
+
+.container-projects {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+}
+
+
+.first-project {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 1200px;
+}
+
+.container-first-project {
+
+    width: 300px;
+    height: 460px;
+    justify-content: space-between;
+    position: relative;
+    margin: 30px;
+}
+
+.heading {
+    font-size: 27px;
+    text-transform: uppercase;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+
+}
+
+.heading-one {
+    font-size: 27px;
+    text-transform: uppercase;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    color: white;
+}
+
+.input-one {
+    width: 323px;
+    height: 50px;
+}
+
+.project-content-one {
+    background-color: #EC615B;
+    padding: 10px;
+    width: 365px;
+    height: 233px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.container-menu-footer {
+    display: flex;
+
+}
+
+.container-item-footer {
+    display: flex;
+    gap: 20px;
+    font-size: 20px;
+    font-family: "Roboto Slab", serif;
+    font-weight: 300;
+    margin-left: 126px;
+}
+
+.container-item_link-footer {
+    text-decoration: none;
+    color: black;
+}
